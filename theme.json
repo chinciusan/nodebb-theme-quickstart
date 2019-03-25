@@ -1,6 +1,6 @@
 {
     "id": "nodebb-theme-iwelcome",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-iwelcome"
+    "name": "iWelcome",
+    "description": "This is the custom theme for iWelcome",
+    "url": "https://github.com/chinciusan/nodebb-theme-quickstart"
 }
