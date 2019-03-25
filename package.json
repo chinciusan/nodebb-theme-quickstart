@@ -1,10 +1,20 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-iwelcome",
   "version": "0.0.0",
   "description": "Enter a description here",
+  "author": {
+    "name": "Marian Chinciusan",
+    "email": "marian.chinciusan@iwelcome.com",
+    "url": "https://www.iwelcome.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chinciusan/nodebb-theme-quickstart"
+  },
+  "bugs": {
+    "url": "https://github.com/chinciusan/nodebb-theme-quickstart/issues"
+  },
   "main": "theme.less",
-  "keywords": [
-
-  ],
+  "keywords": [],
   "license": "MIT"
 }
